@@ -1,0 +1,25 @@
+{
+  "name": "sanbercode-batch41-cypress-uitesting",
+  "version": "1.0.0",
+  "description": "ui test using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wrosshari/sanbercode-batch41-cypress-UITesting.git"
+  },
+  "author": "winda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wrosshari/sanbercode-batch41-cypress-UITesting/issues"
+  },
+  "homepage": "https://github.com/wrosshari/sanbercode-batch41-cypress-UITesting#readme",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  },
+  "dependencies": {
+    "npx": "^10.2.2"
+  }
+}
