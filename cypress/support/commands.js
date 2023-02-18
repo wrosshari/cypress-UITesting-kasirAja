@@ -23,3 +23,12 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+
+ Cypress.Commands.add('loginKasir', (email, password) => {
+     cy.visit('/');
+     cy.get('[id = "email"]').type(email);
+     cy.get('[id = "password"]').type(password);
+     cy.get('[type = "submit"]').click();
+    
+     cy.url().should('contain','/dashboard');   
+ });

@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/wrosshari/sanbercode-batch41-cypress-UITesting#readme",
   "devDependencies": {
-    "cypress": "^12.5.1"
+    "cypress": "^10.11.1"
   },
   "dependencies": {
     "npx": "^10.2.2"
