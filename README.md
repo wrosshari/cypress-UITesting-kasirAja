@@ -14,5 +14,5 @@ How to run :
 - run all test : runAllTest.cy.js
 ```
 
-you can see the test case : https://docs.google.com/spreadsheets/d/1jr9ZlcrWbUzIzDrPqpe_mPszJCpPywxF6lftPw326TI/edit#gid=1461856844
-and see the final result in video : https://drive.google.com/file/d/1cXlwEkw9MzzgupAdfVBm8QN5xQpsUh6y/view?usp=share_link
+test scenario document : https://docs.google.com/spreadsheets/d/1jr9ZlcrWbUzIzDrPqpe_mPszJCpPywxF6lftPw326TI/edit#gid=1461856844
+the final result in video : https://drive.google.com/file/d/1cXlwEkw9MzzgupAdfVBm8QN5xQpsUh6y/view?usp=share_link
